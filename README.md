@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-![Weather Forecast App](./assets/weather-dashboard.png)
+![Weather Forecast App](./Assets/weather-dashboard.png)
 
 This is a weather forecast application that uses the OpenWeatherMap API to fetch current weather and 5-day forecast data for a specified city. The app allows users to search for cities, view current weather conditions, and see a 5-day weather forecast.
 
